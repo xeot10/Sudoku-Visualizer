@@ -1,0 +1,23 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeot10/Sudoku-Visualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeot10/Sudoku-Visualizer/issues"
+  },
+  "homepage": "https://github.com/xeot10/Sudoku-Visualizer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodejs": "0.0.0"
+  }
+}
