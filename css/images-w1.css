@@ -1,0 +1,99 @@
+.block2{
+  width: 103%;
+  margin-left: -1%;
+  height: 630px;;
+  position: absolute;
+
+}
+.block2 div{
+  position: inherit;
+
+}
+
+.d1{
+  width: 250px;
+  height: 150px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: white;
+  border-width: 10px;
+  margin-left: 30.3em;
+  margin-top: 13.1em;
+}
+.d2{
+  height: 260px;
+  width: 140px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 46.5em;
+  margin-top: 11.5em;
+}
+
+.d3{
+  width: 200px;
+  height: 171px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 32.6em;
+  margin-top: 23.1em;
+}
+
+.d4{
+  width: 140px;
+  height: 180px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 36.6em;
+  margin-top: 1.3em;
+}
+
+.d5{
+  width: 177px;
+  height: 115px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 46em;
+  margin-top: 3.7em;
+}
+
+.d6{
+  width: 230px;
+  height: 140px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 56em;
+  margin-top: 11.5em;
+}
+
+.d7{
+
+  width: 177px;
+  height: 115px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 25em;
+  margin-top: 5.3em;
+
+}
+.d8{
+  width: 220px;
+  height: 130px;
+  background-color: white;
+  border-radius: 9px;
+  border-color: grey;
+  border-width: 10px;
+  margin-left: 15.5em;
+  margin-top: 13.1em;
+}

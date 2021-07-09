@@ -1,0 +1,133 @@
+body {
+  background-color: #000002;
+  color: white;
+  overflow-x: hidden;
+}
+
+.block1 {
+  text-align: right;
+  word-spacing: 15px;
+  height: 60px;
+  width: 101%;
+  overflow: hidden;
+  margin-top: 1px;
+}
+
+.navlist {
+  padding-top: 20px;
+}
+
+.navlist a {
+  padding-top: 20px;
+  padding-right: 3%;
+  text-decoration: none;
+  font-size: 130%;
+  color: black;
+  font-family: monospace;
+}
+.post{
+  margin-left: 926px;
+  margin-top: 65px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: grey;
+}
+.post a{
+  font-size: 76px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Ubuntu',monospace;
+}
+.explore{
+  margin-left: 736px;
+  margin-top: 455px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: grey;
+}
+.explore a{
+  font-size: 70px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Ubuntu',monospace;
+}
+.dash{
+  margin-left: 245px;
+  margin-top: 367px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: grey;
+}
+.dash a{
+  font-size: 74px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Ubuntu',monospace;
+}
+.block3 {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+  font-size: 141%;
+  padding-top: 730px;
+  font-family: 'Ubuntu',monospace;
+  color: #999999;
+
+}
+.block4{
+  margin-top: 19em;
+  height: 60px;
+  background-color: #28B463;
+  opacity:70%;
+
+}
+.block4 div{
+  position: absolute;
+}
+
+
+.ani{
+  margin-top: -560px;
+}
+
+
+.linkedin{
+  margin-top: 0.6em;
+  margin-left: 32em;
+  width: 36px;
+  border-radius: 50%;
+  height: 36px;
+  background-color: white;
+}
+.linkedin img{
+  width: 36px;
+  height: 36px;
+}
+.github{
+  margin-top: 0.6em;
+  margin-left: 43em;
+  width: 36px;
+  border-radius: 50%;
+  height: 36px;
+  background-color: white;
+
+}
+.twitter{
+  margin-top: 0.6em;
+  margin-left: 37em;
+  background-color: white;
+  width: 36px;
+  border-radius: 50%;
+  height: 36px;
+}
+.twitter img{
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+.github img{
+
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
